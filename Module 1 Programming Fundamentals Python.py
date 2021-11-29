@@ -41,3 +41,7 @@ print (max_score)
 y = 75
 
 print (y)
+
+t = "tom is an Idio"
+
+print (t)
