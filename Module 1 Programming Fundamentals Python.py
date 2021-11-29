@@ -38,3 +38,6 @@ max_score = 10
 
 print (max_score)
 
+y = 75
+
+print (y)
